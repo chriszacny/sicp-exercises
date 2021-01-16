@@ -11,3 +11,7 @@ These exercises are coded in LISP using the mit-scheme interpreter.
 This is a classic textbook that contains many concepts that are missed the first time around in a CS education. (e.g. normal-order evaluation vs applicative-order evaluation, what data actually is, etc.)
 
 I'm fascinated by the idea of formally specifying a program mathematically such that one can prove (using math) a program is correct and free of bugs. This book shows how to do that, in addition to a number of other intriguing topics.
+
+## Setup
+Install `mit-scheme`
+Run the scheme files using `scheme --load ex1-1a.scm`
